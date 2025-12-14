@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440">
+  <defs>
+    <linearGradient id="banana-bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#fffef6" />
+      <stop offset="100%" stop-color="#fff2c2" />
+    </linearGradient>
+    <linearGradient id="banana-body" x1="0%" x2="100%" y1="40%" y2="60%">
+      <stop offset="0%" stop-color="#ffe27a" />
+      <stop offset="100%" stop-color="#ffd54a" />
+    </linearGradient>
+  </defs>
+  <rect width="440" height="440" rx="88" fill="url(#banana-bg)" />
+  <path d="M120 220c60 90 160 90 220 10-74 40-132 28-190-38l-30 28z" fill="url(#banana-body)" />
+  <path d="M130 215c48 62 126 64 178 20-60 22-118 6-158-46l-20 26z" fill="#fffbea" opacity="0.45" />
+  <circle cx="155" cy="210" r="12" fill="#fffbea" opacity="0.9" />
+  <circle cx="210" cy="250" r="10" fill="#fffbea" opacity="0.9" />
+</svg>

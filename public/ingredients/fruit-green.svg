@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440">
+  <defs>
+    <linearGradient id="apple-bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f7fff6" />
+      <stop offset="100%" stop-color="#e0ffe2" />
+    </linearGradient>
+    <linearGradient id="apple-body" x1="30%" x2="70%" y1="10%" y2="90%">
+      <stop offset="0%" stop-color="#b0f1c2" />
+      <stop offset="100%" stop-color="#7ed693" />
+    </linearGradient>
+  </defs>
+  <rect width="440" height="440" rx="88" fill="url(#apple-bg)" />
+  <circle cx="210" cy="210" r="120" fill="url(#apple-body)" />
+  <ellipse cx="240" cy="200" rx="70" ry="90" fill="#f3fff1" opacity="0.45" />
+  <path d="M210 115c26-4 40-14 50-32-4 22-14 38-30 52l-20-20z" fill="#8ecf7a" />
+  <circle cx="175" cy="215" r="18" fill="#f3fff1" opacity="0.8" />
+</svg>

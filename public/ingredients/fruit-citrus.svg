@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440">
+  <defs>
+    <linearGradient id="citrus-bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f5fff2" />
+      <stop offset="100%" stop-color="#dff9d6" />
+    </linearGradient>
+    <linearGradient id="citrus-body" x1="15%" x2="85%" y1="10%" y2="90%">
+      <stop offset="0%" stop-color="#b2f59b" />
+      <stop offset="100%" stop-color="#7be47b" />
+    </linearGradient>
+  </defs>
+  <rect width="440" height="440" rx="88" fill="url(#citrus-bg)" />
+  <circle cx="215" cy="215" r="120" fill="url(#citrus-body)" />
+  <path d="M215 115c-16 37-16 97 0 140 16-43 16-103 0-140z" fill="#f5fff2" opacity="0.55" />
+  <path d="M215 215c40-16 84-16 120-6-33 24-74 35-118 26l-2-20z" fill="#f5fff2" opacity="0.55" />
+  <circle cx="180" cy="180" r="18" fill="#f5fff2" opacity="0.7" />
+</svg>

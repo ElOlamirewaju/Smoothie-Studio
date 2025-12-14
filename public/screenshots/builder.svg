@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <defs>
+    <linearGradient id="gradBuilder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e8f4ff"/>
+      <stop offset="100%" stop-color="#ddfae7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="900" fill="url(#gradBuilder)"/>
+  <rect x="80" y="90" width="1240" height="720" rx="48" fill="rgba(255,255,255,0.65)" stroke="rgba(255,255,255,0.7)" stroke-width="4"/>
+  <text x="700" y="340" text-anchor="middle" font-size="62" font-family="Inter, system-ui" fill="#0f172a" opacity="0.82">Builder Screenshot</text>
+  <text x="700" y="410" text-anchor="middle" font-size="26" font-family="Inter, system-ui" fill="#334155" opacity="0.8">Capture /builder with ingredients added</text>
+  <text x="700" y="470" text-anchor="middle" font-size="20" font-family="Inter, system-ui" fill="#475569" opacity="0.7">Show shared layout animation + live totals</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440">
+  <defs>
+    <linearGradient id="berry-bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f7f7ff" />
+      <stop offset="100%" stop-color="#d8e4ff" />
+    </linearGradient>
+    <linearGradient id="berry-accent" x1="20%" x2="80%" y1="20%" y2="80%">
+      <stop offset="0%" stop-color="#7c9bff" />
+      <stop offset="100%" stop-color="#a24bff" />
+    </linearGradient>
+  </defs>
+  <rect width="440" height="440" rx="88" fill="url(#berry-bg)" />
+  <circle cx="210" cy="190" r="120" fill="url(#berry-accent)" opacity="0.9" />
+  <circle cx="260" cy="230" r="86" fill="#f5f7ff" opacity="0.55" />
+  <ellipse cx="200" cy="180" rx="24" ry="32" fill="#f7f7ff" opacity="0.92" />
+  <circle cx="160" cy="240" r="12" fill="#f7f7ff" opacity="0.9" />
+  <circle cx="220" cy="270" r="10" fill="#f7f7ff" opacity="0.85" />
+  <circle cx="250" cy="190" r="10" fill="#f7f7ff" opacity="0.85" />
+</svg>

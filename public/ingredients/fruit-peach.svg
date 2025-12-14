@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440">
+  <defs>
+    <linearGradient id="peach-bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#fff6f4" />
+      <stop offset="100%" stop-color="#ffdede" />
+    </linearGradient>
+    <linearGradient id="peach-body" x1="20%" x2="80%" y1="20%" y2="90%">
+      <stop offset="0%" stop-color="#ffb7a8" />
+      <stop offset="100%" stop-color="#ff8f70" />
+    </linearGradient>
+  </defs>
+  <rect width="440" height="440" rx="88" fill="url(#peach-bg)" />
+  <ellipse cx="220" cy="225" rx="130" ry="120" fill="url(#peach-body)" />
+  <ellipse cx="200" cy="200" rx="70" ry="90" fill="#fff4ef" opacity="0.4" />
+  <circle cx="260" cy="185" r="16" fill="#fff4ef" opacity="0.7" />
+  <path d="M220 120c26-10 54-6 72 8-22-6-42-4-58 10l-14-18z" fill="#9fdb8b" opacity="0.6" />
+</svg>

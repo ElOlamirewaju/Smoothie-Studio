@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440">
+  <defs>
+    <linearGradient id="protein-green-bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f6fff8" />
+      <stop offset="100%" stop-color="#e2f8e8" />
+    </linearGradient>
+    <linearGradient id="protein-green-body" x1="20%" x2="80%" y1="10%" y2="90%">
+      <stop offset="0%" stop-color="#a8f0c8" />
+      <stop offset="100%" stop-color="#60cf9c" />
+    </linearGradient>
+  </defs>
+  <rect width="440" height="440" rx="88" fill="url(#protein-green-bg)" />
+  <rect x="150" y="120" width="140" height="200" rx="40" fill="url(#protein-green-body)" />
+  <rect x="190" y="140" width="70" height="180" rx="30" fill="#f8fff9" opacity="0.55" />
+  <circle cx="175" cy="190" r="16" fill="#f8fff9" opacity="0.8" />
+  <circle cx="220" cy="250" r="14" fill="#f8fff9" opacity="0.85" />
+</svg>

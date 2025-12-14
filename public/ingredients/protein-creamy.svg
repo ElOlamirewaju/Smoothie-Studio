@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440">
+  <defs>
+    <linearGradient id="protein-creamy-bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#fffdf8" />
+      <stop offset="100%" stop-color="#f2ede3" />
+    </linearGradient>
+    <linearGradient id="protein-creamy-body" x1="15%" x2="85%" y1="10%" y2="90%">
+      <stop offset="0%" stop-color="#f5e3c8" />
+      <stop offset="100%" stop-color="#dfc6a8" />
+    </linearGradient>
+  </defs>
+  <rect width="440" height="440" rx="88" fill="url(#protein-creamy-bg)" />
+  <circle cx="210" cy="220" r="120" fill="url(#protein-creamy-body)" />
+  <circle cx="230" cy="210" r="80" fill="#fffaf1" opacity="0.55" />
+  <circle cx="170" cy="200" r="24" fill="#fffaf1" opacity="0.8" />
+  <circle cx="240" cy="270" r="16" fill="#fffaf1" opacity="0.85" />
+</svg>
