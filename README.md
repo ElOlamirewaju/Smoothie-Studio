@@ -48,8 +48,17 @@ public/
 ```
 
 ## Screenshots
-- Replace the SVG placeholders in `public/screenshots/` with real captures.
-- Suggested pages: landing (`/`), dashboard (`/dashboard`), builder (`/builder` with a few items), progress (`/progress`).
+## Landing Page
+![Landing Page](public/screenshots/landing.svg)
+
+### Dashboard
+![Dashboard](public/screenshots/dashboard.svg)
+
+### Smoothie Builder
+![Builder](public/screenshots/builder.svg)
+
+### Progress Tracking
+![Progress](public/screenshots/progress.svg)
 
 ## Deployment
 - Optimized for Vercel/Next.js hosting; no server data dependencies.
