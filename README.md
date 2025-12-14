@@ -21,16 +21,16 @@ Apple-inspired smoothie tracker with glassmorphism UI, Framer Motion animations,
 ## 🖼️ Screenshots
 
 ### Landing Page
-![Landing](https://raw.githubusercontent.com/ElOlamirewaju/Smoothie-Studio/main/public/screenshots/landing.svg)
+![Landing](https://raw.githubusercontent.com/ElOlamirewaju/Smoothie-Studio/main/public/screenshots/landing.png)
 
 ### Dashboard  
-![Dashboard](https://raw.githubusercontent.com/ElOlamirewaju/Smoothie-Studio/main/public/screenshots/dashboard.svg)
+![Dashboard](https://raw.githubusercontent.com/ElOlamirewaju/Smoothie-Studio/main/public/screenshots/dashboard.png)
 
 ### Smoothie Builder
-![Builder](https://raw.githubusercontent.com/ElOlamirewaju/Smoothie-Studio/main/public/screenshots/builder.svg)
+![Builder](https://raw.githubusercontent.com/ElOlamirewaju/Smoothie-Studio/main/public/screenshots/builder.png)
 
 ### Progress Tracking
-![Progress](https://raw.githubusercontent.com/ElOlamirewaju/Smoothie-Studio/main/public/screenshots/progress.svg)
+![Progress](https://raw.githubusercontent.com/ElOlamirewaju/Smoothie-Studio/main/public/screenshots/progress.png)
 
 ---
 
