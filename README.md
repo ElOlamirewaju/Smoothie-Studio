@@ -47,18 +47,19 @@ public/
   screenshots/        Placeholder captures (swap with real)
 ```
 
-## Screenshots
-## Landing Page
-![Landing Page](public/screenshots/landing.svg)
+## 🖼️ Screenshots
+
+### Landing Page
+![Landing Page](https://raw.githubusercontent.com/ElOlamirewaju/Smoothie-Studio/main/public/screenshots/landing.svg)
 
 ### Dashboard
-![Dashboard](public/screenshots/dashboard.svg)
+![Dashboard](https://raw.githubusercontent.com/ElOlamirewaju/Smoothie-Studio/main/public/screenshots/dashboard.svg)
 
 ### Smoothie Builder
-![Builder](public/screenshots/builder.svg)
+![Builder](https://raw.githubusercontent.com/ElOlamirewaju/Smoothie-Studio/main/public/screenshots/builder.svg)
 
 ### Progress Tracking
-![Progress](public/screenshots/progress.svg)
+![Progress](https://raw.githubusercontent.com/ElOlamirewaju/Smoothie-Studio/main/public/screenshots/progress.svg)
 
 ## Deployment
 - Optimized for Vercel/Next.js hosting; no server data dependencies.
