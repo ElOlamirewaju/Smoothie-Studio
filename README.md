@@ -1,8 +1,10 @@
 # Smoothie Studio
 
-# Smoothie Studio
+**[🔗 Live Demo](https://smoothie-studio.vercel.app/)** | **[📂 GitHub](https://github.com/ElOlamirewaju/Smoothie-Studio)**
 
-**[🔗 Live Demo](https://your-app.vercel.app)** | **[📂 View Code](https://github.com/ElOlamirewaju/Smoothie-Studio)**
+![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-Latest-ff69b4?style=flat-square)
 
 Smoothie builder and ingredient explorer built with Next.js. Browse the catalog with search, categories, and tags, view nutrition, and assemble custom blends with live macro totals and polished motion.
 
