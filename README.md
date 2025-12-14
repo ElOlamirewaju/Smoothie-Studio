@@ -50,16 +50,16 @@ public/
 ## 🖼️ Screenshots
 
 ### Landing Page
-![Landing Page](https://raw.githubusercontent.com/ElOlamirewaju/Smoothie-Studio/main/public/screenshots/landing.svg)
+![Landing Page](https://raw.githubusercontent.com/ElOlamirewaju/Smoothie-Studio/main/public/screenshots/landing.png)
 
 ### Dashboard
-![Dashboard](https://raw.githubusercontent.com/ElOlamirewaju/Smoothie-Studio/main/public/screenshots/dashboard.svg)
+![Dashboard](https://raw.githubusercontent.com/ElOlamirewaju/Smoothie-Studio/main/public/screenshots/dashboard.png)
 
 ### Smoothie Builder
-![Builder](https://raw.githubusercontent.com/ElOlamirewaju/Smoothie-Studio/main/public/screenshots/builder.svg)
+![Builder](https://raw.githubusercontent.com/ElOlamirewaju/Smoothie-Studio/main/public/screenshots/builder.png)
 
 ### Progress Tracking
-![Progress](https://raw.githubusercontent.com/ElOlamirewaju/Smoothie-Studio/main/public/screenshots/progress.svg)
+![Progress](https://raw.githubusercontent.com/ElOlamirewaju/Smoothie-Studio/main/public/screenshots/progress.png)
 
 ## Deployment
 - Optimized for Vercel/Next.js hosting; no server data dependencies.
